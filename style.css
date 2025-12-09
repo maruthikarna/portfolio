@@ -1,0 +1,53 @@
+/* Remove default white space */
+* {
+    margin: 0;
+    padding: 0;
+}
+
+/* Full page background */
+html, body {
+    width: 100%;
+    height: 100%;
+}
+
+body {
+    background-image: url("bgimage.jpg"); /* your image name */
+    background-size: cover;          /* FULL screen */
+    background-position: center;     /* center image */
+    background-repeat: no-repeat;    /* no repeat */
+}
+h1{
+    color:aqua
+
+}
+h2{
+    color:aqua
+}
+span{
+    color:aqua
+}
+td{
+    border:2px solid red
+    
+
+}
+td{
+    background-color:red
+}
+th{
+    border:2px solid yellow;
+}
+th{
+    background-color: yellow;
+}
+h3{
+    color:chartreuse
+}
+h2{
+    color:brown
+
+}
+span1{
+    color:blueviolet
+}
+
